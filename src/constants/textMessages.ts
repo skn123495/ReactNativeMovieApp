@@ -1,0 +1,23 @@
+export const TEXT = {
+  REGISTER_LOGIN: 'Register/Login',
+  Welcome_back: 'Welcome back!',
+  Enter_panel: 'Enter your email address and password',
+  toAccess: 'to access admin panel',
+  ENTER_MOBILE_NUMBER: 'Enter mobile number',
+  ENTER_EMAIL: 'Enter Email... ',
+  TERM_CONDITION:
+    'By choosing to continue, you agree to accept all applicable ',
+  TNC: 'Terms & Conditions',
+  PNP: 'Privacy Policy',
+  REGISTER: 'Register',
+  LOGIN_IN: 'Log in',
+  LOGIN: 'Log In',
+  SIGN_UP: 'Sign up',
+  WELCOME_TO_MANTELTOP: 'Welcome To\nManteltop',
+  USERNAME: 'Username*',
+  PASSWORD: 'Enter your password',
+  PASSWORD_LABEL: 'Password',
+  FORGOT_PASSWORD: 'Forgot your password?',
+  NAME: 'Mr. Shiv Whorra',
+  ROLE: 'ADMIN',
+};
